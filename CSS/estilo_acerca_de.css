@@ -1,0 +1,29 @@
+header {
+    background-color: rgb(85, 190, 150);
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+footer {
+    background-color: rgb(85, 190, 150);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    clear: both;
+}
+  .facebook-icon {
+    font-size: 40px;
+  }
+  .fa-facebook {
+    font-size: 40px;
+  }
+  .fa-envelope{
+    font-size: 40px;
+  }
+p{
+    font-size: 24px;
+}
+  .texto{
+    font-size: 24px;
+    text-align: justify;
+  }

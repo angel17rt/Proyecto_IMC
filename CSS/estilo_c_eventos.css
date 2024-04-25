@@ -1,0 +1,50 @@
+header {
+    background-color: rgb(85, 190, 150);
+    color:white;
+    text-align: center;
+    padding: 10px;
+}
+header h1 {
+    display: inline-block;
+  }
+  table{
+    margin-top: 40px;
+    caption-side: bottom;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: separate;
+    border-spacing: 1px 1px;
+  }
+  th{
+    background-color: rgb(44, 116, 248);
+    color: white;
+  
+  }
+  caption{
+    padding-top: 20px;
+    font-style: italic;
+  }
+  td, th{
+    border: 2px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  
+  }
+  footer {
+    background-color: rgb(85, 190, 150);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    clear: both;
+  }
+  .facebook-icon {
+    font-size: 40px;
+  }
+  .fa-facebook {
+    font-size: 40px;
+  }
+  .fa-envelope{
+    font-size: 40px;
+  }
